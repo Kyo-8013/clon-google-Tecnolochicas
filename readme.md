@@ -4,7 +4,7 @@ El presente proyecto es un página clon de Google desarrollado para poner en pr�
 
 Fue desarrollado con HTML y CSS..
 
-[Proyecto Desplegado](https://mi-pagina-tecnolochicas.vercel.app/)
+[Proyecto Desplegado](https://clon-google-tecnolochicas.vercel.app/)
 
 
 ## Tecnologías
